@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Michael/Documents/UnrealProjects/SuperYepCock/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Michael/Documents/UnrealProjects/SuperYepCock/Content/ThirdPerson/Beta_Surface_Skeleton.uasset",
+				"C:/Users/Michael/Documents/UnrealProjects/SuperYepCock/Content/ThirdPerson/Beta_Surface.uasset",
+				"C:/Users/Michael/Documents/UnrealProjects/SuperYepCock/Content/ThirdPerson/Beta_Surface_Anim.uasset",
+				"C:/Users/Michael/Documents/UnrealProjects/SuperYepCock/Content/ThirdPerson/CharAnimation.uasset",
+				"C:/Users/Michael/Documents/UnrealProjects/SuperYepCock/Content/ThirdPerson/Idle.uasset",
+				"C:/Users/Michael/Documents/UnrealProjects/SuperYepCock/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/33/2XPKHHXJCRDBDKUVLHB07E.uasset",
+				"C:/Users/Michael/Documents/UnrealProjects/SuperYepCock/Content/ThirdPerson/Yawn.uasset",
+				"C:/Users/Michael/Documents/UnrealProjects/SuperYepCock/Content/ThirdPerson/Beta_HighLimbsGeoSG3.uasset",
+				"C:/Users/Michael/Documents/UnrealProjects/SuperYepCock/Content/ThirdPerson/Beta_Joints_MAT1.uasset",
+				"C:/Users/Michael/Documents/UnrealProjects/SuperYepCock/Content/ThirdPerson/FbxScene_Yawn.uasset",
+				"C:/Users/Michael/Documents/UnrealProjects/SuperYepCock/Content/ThirdPerson/Char.uasset",
+				"C:/Users/Michael/Documents/UnrealProjects/SuperYepCock/Content/ThirdPerson/CharController.uasset",
+				"C:/Users/Michael/Documents/UnrealProjects/SuperYepCock/Content/ThirdPerson/CharGameMode.uasset"
+			]
+		}
+	]
+}
